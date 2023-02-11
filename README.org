@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 03
 
-* Last name:
+* Last name: Kaur
 
-* First name:
+* First name: Armanndeep
 
-* GitHub username:
+* GitHub username: ArmanndeepKaur
 
 * Notes:
 
